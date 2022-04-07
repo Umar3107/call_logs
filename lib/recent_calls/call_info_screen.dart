@@ -7,7 +7,7 @@ class CallInfo extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Container(
-        color: Colors.orange[300],
+        color: Colors.red[300],
         alignment: Alignment.center,
         child: const Text("СКОРО БУДЕТ"),
       ),
