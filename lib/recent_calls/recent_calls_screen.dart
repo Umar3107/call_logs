@@ -16,7 +16,7 @@ class _RecentCallsState extends State<RecentCalls> {
       appBar: AppBar(
         title: const Text(
           'Журнал звонков',
-          style: TextStyle(color: Colors.black),
+          style: TextStyle(color: Colors.black54),
         ),
         backgroundColor: const Color(0xffF9F9FB),
 
