@@ -7,6 +7,7 @@ class AppTextStyle{
         fontSize: 17,
         fontWeight: FontWeight.bold,
         color: color,
+
     );
   }
 

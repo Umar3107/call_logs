@@ -26,7 +26,7 @@ class _CallCardState extends State<CallCard> {
             ),
           ),
           Expanded(
-            child: Column(                        //21.33
+            child: Column(                        /
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Text('+0 (000) 000-00-00', style: AppTextStyle.bold17()),

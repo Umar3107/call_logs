@@ -21,7 +21,7 @@ class _RecentCallsState extends State<RecentCalls> {
         ),
         backgroundColor: AppColors.appBar,
 
-        systemOverlayStyle: const SystemUiOverlayStyle(
+        systemOverlayStyle: SystemUiOverlayStyle(
           // Status bar color
           statusBarColor: AppColors.appBar,
 
